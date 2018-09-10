@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Madrid</title>
+</head>
+<h1> Real Madrid</h1>
+<form method="post" action="https://www.google.com/">
+<u><b>Gender</b></U> </br></br>
+<input type="checkbox" name="gender" value="male"/> Male</br>
+<input type="checkbox" name="gender" value="female"/> Female
+</br>
+<input type="submit" value="submit"/>
+</form>
+<body>
+</body>
+</html>
